@@ -34,5 +34,3 @@ function wrapAdjective(dec) {
 
 
 }
-
-wrapAdjective(dec)(emphatic)
